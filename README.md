@@ -22,6 +22,6 @@
  <img align="center" alt="Jefe-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
  <img align="center" alt="Jefe-julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
  <img align="center" alt="Jefe-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Jefe-dragão" src="https://pa1.narvii.com/6555/7c22ec088c929ce4753d4c4baa4994c6019f02a6_hq.gif" height="170" display="flex" justify-content="center">
+ <img align="center" alt="Jefe-dragão" src="https://pa1.narvii.com/6555/7c22ec088c929ce4753d4c4baa4994c6019f02a6_hq.gif" height="110" display="flex" justify-content="center">
 
  </div>
